@@ -1,0 +1,386 @@
+{
+    "window": {
+        "window_cover": [
+            1.5,
+            1.0
+        ],
+        "window_main": [
+            0.5,
+            0.5
+        ],
+        "window_matching": [
+            0.5,
+            0.5
+        ],
+        "window_shop": [
+            0.5,
+            1.0
+        ],
+        "window_ending": [
+            0.5,
+            0.5
+        ],
+        "window_input": [
+            774.5,
+            374.0
+        ],
+        "window_main_map": [
+            0,
+            0
+        ],
+        "window_blank": [
+            0,
+            0
+        ]
+    },
+    "button": {
+        "button_Multi_player_static": [
+            761.4504999999999,
+            473.0978
+        ],
+        "button_Rules_static": [
+            761.4504999999999,
+            683.3442
+        ],
+        "button_About_us_static": [
+            761.4504999999999,
+            893.5906
+        ],
+        "button_Multi_player_highlight": [
+            761.4504999999999,
+            473.0978
+        ],
+        "button_Rules_highlight": [
+            760.9504999999999,
+            682.3442
+        ],
+        "button_About_us_highlight": [
+            760.4504999999999,
+            893.0906
+        ],
+        "button_close_audio_static": [
+            2122.7503,
+            1172.8583
+        ],
+        "button_close_audio_highlight": [
+            2122.7503,
+            1172.8583
+        ],
+        "button_open_audio_static": [
+            2122.7503,
+            1172.3583
+        ],
+        "button_open_audio_highlight": [
+            2122.2503,
+            1171.8583
+        ],
+        "button_create_a_room_static": [
+            307.8029,
+            407.92819999999995
+        ],
+        "button_create_a_room_highlight": [
+            307.3029,
+            407.42819999999995
+        ],
+        "button_join_in_a_room_static": [
+            1218.0899,
+            407.92819999999995
+        ],
+        "button_join_in_a_room_highlight": [
+            1218.0899,
+            407.92819999999995
+        ],
+        "button_out_static": [
+            62.0617,
+            58.035399999999996
+        ],
+        "button_out_highlight": [
+            61.0617,
+            58.035399999999996
+        ],
+        "button_enter_your_room_address_static": [
+            1217.8436,
+            89.5096
+        ],
+        "button_enter_your_room_address_highlight": [
+            1217.3436,
+            89.5096
+        ],
+        "button_shop_shallow": [
+            1956.8477,
+            1244.7497
+        ],
+        "button_shop_dark": [
+            1956.8477,
+            1244.7497
+        ],
+        "button_exit_shallow": [
+            14.284099999999995,
+            18.256
+        ],
+        "button_exit_dark": [
+            14.284099999999995,
+            18.256
+        ],
+        "button_skip_shallow": [
+            1061.7715,
+            1214.0848
+        ],
+        "button_skip_dark": [
+            1061.7715,
+            1214.0848
+        ],
+        "button_trap_shallow": [
+            813.7715,
+            1214.0848
+        ],
+        "button_trap_dark": [
+            813.7715,
+            1214.0848
+        ],
+        "button_war_shallow": [
+            937.7715,
+            1214.0848
+        ],
+        "button_war_dark": [
+            937.7715,
+            1214.0848
+        ],
+        "button_hide_shallow":[1185.775 ,1214.0848 ],
+        "button_hide_dark":[1185.775,1214.0848 ],
+        "button_cancel_shallow": [
+            930.5 ,
+            36.5 
+        ],
+        "button_cancel_dark": [
+            930.5 ,
+            36.5 
+        ],
+        "button_finish_shallow": [
+            1786.5  ,
+            1245.5 
+        ],
+        "button_finish_dark": [
+            1786.5  ,
+            1245.5
+        ],
+        
+
+        "button_ship_shallow":[564.496  ,1214.0848 ],
+        "button_ship_dark":[564.496 ,1214.0848 ],
+
+        "button_road_shallow":[688.496  ,1214.0848 ],
+        "button_road_dark":[688.496 ,1214.0848 ],
+
+        "button_railway_shallow":[440.496  ,1214.0848 ],
+        "button_railway_dark":[440.496 ,1214.0848 ],
+
+        "button_buy_shallow": {
+            "ship_ticket": [
+                470.7443,
+                443.2572
+                ],
+                "railway_ticket": [
+                470.7443,
+                725.2572
+                ],
+                "road_ticket": [
+                470.7443,
+                1007.2572
+                ],
+                "unknown_ticket": [
+                856.7443,
+                507.2572
+                ],
+                "trap_card": [
+                1281.7443,
+                598.2572
+                ],
+                "skip_card": [
+                1281.7443,
+                1040.2572
+                ],
+                "hide_card": [
+                1518.7443,
+                598.2572
+                ],
+                "war_card": [
+                1518.7443,
+                1040.2572
+                ]
+        },
+        "button_buy_dark": {
+            "ship_ticket": [
+                470.7443,
+                443.2572
+                ],
+                "railway_ticket": [
+                470.7443,
+                725.2572
+                ],
+                "road_ticket": [
+                470.7443,
+                1007.2572
+                ],
+                "unknown_ticket": [
+                856.7443,
+                507.2572
+                ],
+                "trap_card": [
+                1281.7443,
+                598.2572
+                ],
+                "skip_card": [
+                1281.7443,
+                1040.2572
+                ],
+                "hide_card": [
+                1518.7443,
+                598.2572
+                ],
+                "war_card": [
+                1518.7443,
+                1040.2572
+                ]
+        }
+    },
+    "words": {
+        "words_please_wait_1": [
+            1317.0728,
+            1219.6712
+        ],
+        "words_please_wait_2": [
+            1317.6869,
+            1220.1712
+        ],
+        "words_please_wait_3": [
+            1317.4797,
+            1220.1712
+        ],
+        "words_matching_1": [
+            232.50599999999997,
+            48.60210000000001
+        ],
+        "words_matching_2": [
+            232.50599999999997,
+            48.60210000000001
+        ],
+        "words_matching_3": [
+            232.4126,
+            48.60210000000001
+        ],
+        "words_1":[
+            420.5 ,
+            288.5 
+        ],
+        "words_2":[
+            343.5  ,
+            115.5  
+        ],
+        "words_3":[
+            202.5  ,
+            108.5  
+        ]
+    },
+    "figure": {
+        "figure_player1_others": [
+            355.24929999999995,
+            404.3233
+        ],
+        "figure_player1_you": [
+            355.24929999999995,
+            404.3233
+        ],
+        "figure_player2_others": [
+            773.3169,
+            408.8233
+        ],
+        "figure_player2_you": [
+            773.3169,
+            408.8233
+        ],
+        "figure_player3_others": [
+            1190.3845,
+            413.3233
+        ],
+        "figure_player3_you": [
+            1190.3845,
+            413.3233
+        ],
+        "figure_player4_others": [
+            1607.9521,
+            413.8233
+        ],
+        "figure_player4_you": [
+            1607.9521,
+            413.8233
+        ]
+    },
+    "label": {
+        "label_turn_player1": [
+            373.1663,
+            1229.6102
+        ],
+        "label_turn_player2": [
+            0.16629999999999967,
+            452.1102
+        ],
+        "label_turn_player3": [
+            1837.1663,
+            0
+        ],
+        "label_turn_player4": [
+            2176.3872,
+            447.326
+        ],
+        "label_trapped_all": {
+            "player1": [
+                1330.3895,
+                1213.11015
+                ],
+                "player2": [
+                7.8607,
+                918.11395
+                ],
+                "player3": [
+                1313.4352,
+                1.13515
+                ],
+                "player4": [
+                2167.5923,
+                912.82975
+                ]
+        },
+        "label_hiding_all": {
+            "player1": [
+                1330.3895,
+                1280.5 
+            ],
+            "player2": [
+                7.8607,
+                1001.5
+            ],
+            "player3": [
+                1312.5 ,
+                69
+            ],
+            "player4": [
+                2168 ,
+                995.9
+            ]
+        }
+    },
+    "point":{
+        "point_player1":[232.5 ,1210.5 ],
+        "point_player2":[34.5 ,283.5 ],
+        "point_player3":[1985.5 ,11.5 ],
+        "point_player4":[2198.5 ,278.5 ],
+        "point_winner":[762 ,63 ]
+    },
+    "ticket":{
+        "ticket_ship":[756.5 ,808.5],
+        "ticket_railway":[756.5 ,808.5],
+        "ticket_road":[756.5 ,808.5]
+
+    }
+}

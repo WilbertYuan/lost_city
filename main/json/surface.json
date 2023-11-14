@@ -1,0 +1,138 @@
+{
+    "window":
+    {
+        "window_cover":[1150,675 ],
+        "window_main":[1150,675 ],
+        "window_matching":[1150,675 ],
+        "window_shop":[1150,675 ],
+        "window_ending":[1150,675 ],
+        "window_input":[1150,675 ],
+        "window_main_map":[1150,675 ]
+    },
+    "button":
+    {
+        "button_Multi_player_static":[1173.4505 ,552.5978 ],
+        "button_Rules_static":[1173.4505 ,762.8442 ],
+        "button_About_us_static":[1173.4505 ,973.0906 ],
+        "button_Multi_player_highlight":[1173.4505 ,552.5978 ],
+        "button_Rules_highlight":[1173.4505 ,762.8442 ],
+        "button_About_us_highlight":[1173.4505 ,973.0906 ],
+
+        "button_close_audio_static":[2186.7503 ,1236.3583 ],
+        "button_close_audio_highlight":[2186.7503 ,1236.3583 ],
+
+        "button_open_audio_static":[2186.7503 ,1236.3583 ],
+        "button_open_audio_highlight":[2186.7503 ,1236.3583 ],
+        
+        "button_create_a_room_static":[680.3029 ,747.9282 ],
+        "button_create_a_room_highlight":[680.3029 ,747.9282 ],
+         
+        "button_join_in_a_room_static":[1590.5899 ,747.9282 ],
+        "button_join_in_a_room_highlight":[1590.5899,747.9282 ],
+
+        "button_out_static":[125.5617  ,121.5354 ],
+        "button_out_highlight":[125.5617  ,121.5354 ],
+
+        "button_enter_your_room_address_static":[1682.3436 ,149.5096 ],
+        "button_enter_your_room_address_highlight":[1682.3436 ,149.5096 ],
+
+        "button_shop_shallow":[2014.3477 ,1282.7497 ],
+        "button_shop_dark":[2014.3477 ,1282.7497 ],
+
+        "button_exit_shallow":[96.2841 ,48.756 ],
+        "button_exit_dark":[96.2841,48.756 ],
+
+        "button_skip_shallow":[1119.2715 ,1252.0848 ],
+        "button_skip_dark":[1119.2715,1252.0848 ],
+
+        "button_trap_shallow":[871.2715 ,1252.0848 ],
+        "button_trap_dark":[871.2715 ,1252.0848 ],
+
+        "button_war_shallow":[995.2715 ,1252.0848  ],
+        "button_war_dark":[995.2715 ,1252.0848  ],
+
+        "button_hide_shallow":[1243.2715 ,1252.0848 ],
+        "button_hide_dark":[1243.2715,1252.0848 ],
+ 
+        "button_ship_shallow":[564.496  ,1252.0848 ],
+        "button_ship_dark":[564.496 ,1252.0848 ],
+
+        "button_road_shallow":[688.496  ,1252.0848 ],
+        "button_road_dark":[688.496 ,1252.0848 ],
+
+        "button_railway_shallow":[440.496  ,1252.0848 ],
+        "button_railway_dark":[440.496 ,1252.0848 ],
+
+
+        "button_buy_shallow":
+        {
+            "ship_ticket":[512.7339 ,468.6094 ],
+            "railway_ticket":[512.7339,750.6094 ],
+            "road_ticket":[512.7339,1032.6094 ],
+            "unknown_ticket":[898.7339 ,532.6094 ],
+            "trap_card":[1323.7339 ,623.6094 ],
+            "skip_card":[1323.7339,1065.6094 ],
+            "hide_card":[1560.7339 ,623.6094 ],
+            "war_card":[1560.7339 ,1065.6094 ]
+        },
+        "button_buy_dark":
+        {
+            "ship_ticket":[512.7339 ,468.6094 ],
+            "railway_ticket":[512.7339,750.6094 ],
+            "road_ticket":[512.7339,1032.6094 ],
+            "unknown_ticket":[898.7339 ,532.6094 ],
+            "trap_card":[1323.7339 ,623.6094 ],
+            "skip_card":[1323.7339,1065.6094 ],
+            "hide_card":[1560.7339 ,623.6094 ],
+            "war_card":[1560.7339 ,1065.6094 ]
+        }
+    },
+    "words":
+    {
+        "words_please_wait_1":[1628.5728 ,1270.6712 ],
+        "words_please_wait_2":[1684.6869 ,1270.6712 ],
+        "words_please_wait_3":[1741.4797 ,1270.6712 ],
+        "words_matching_1":[548.006 ,128.6021 ],
+        "words_matching_2":[592.506 ,128.6021 ],
+        "words_matching_3":[637.4126 ,128.6021 ]
+    },
+    "figure":
+    {
+        "figure_player1_others":[522.2493 ,715.8233 ],
+        "figure_player1_you":[522.2493 ,715.8233 ],
+
+        "figure_player2_others":[939.8169 ,715.8233 ],
+        "figure_player2_you":[939.8169 ,715.8233 ],
+
+        "figure_player3_others":[1357.3845 ,715.8233],
+        "figure_player3_you":[1357.3845 ,715.8233],
+
+        "figure_player4_others":[1774.9521 ,715.8233],
+        "figure_player4_you":[1774.9521 ,715.8233]
+    },
+    "label":
+    {
+        "label_turn_player1":[397.1663 ,1289.6102 ],
+        "label_turn_player2":[60.1663 ,476.6102 ],
+        "label_turn_player3":[1861.1663 ,58.6102 ],
+        "label_turn_player4":[2236.3872 ,471.326 ],
+
+        "label_trapped_all":
+        {
+            "player1":[1388.3516 ,1245.4963 ],
+            "player2":[65.8228 ,950.5001 ],
+            "player3":[1371.3973 ,33.5213 ],
+            "player4":[2225.5544 ,945.2159 ]
+        },
+
+        "label_hiding_all":
+        {
+            "player1":[1388.3516 ,1311.8086 ],
+            "player2":[65.8228 ,1031.8086 ],
+            "player3":[1371.3973 ,99.8336 ],
+            "player4":[2225.5544 ,1026.5244 ]
+        }
+
+    }
+
+}
